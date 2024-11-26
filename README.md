@@ -56,19 +56,25 @@ As seguintes inferências podem ser extraídas do painel:
 
 ### [1] Total do Faturamento Anual: 99 Milhões
 
-   Maior Estado com Faturamento: São Paulo - 32 Milhões                                                                                  
-        ![grafico_estado](https://github.com/user-attachments/assets/f9597b70-d08f-47a9-93fc-3b7be832e665)
+   Maior Estado com Faturamento: São Paulo - 32 Milhões       
+   
+![grafico_estado](https://github.com/user-attachments/assets/f9597b70-d08f-47a9-93fc-3b7be832e665)
 
 
    Maior Cidade com Faturamento: São Paulo Capital - 16 Milhões
 
-   ![grafico_cidade](https://github.com/user-attachments/assets/9afdbc2f-7789-4d94-81ad-86dddb31be67)
+![grafico_cidade](https://github.com/user-attachments/assets/9afdbc2f-7789-4d94-81ad-86dddb31be67)
 
 
    O Produto com Maior Faturamento: Iphone
-        ![grafico_produto](https://github.com/user-attachments/assets/6c2fef7c-ad73-4bae-be5b-945272857351)
+   
+![grafico_produto](https://github.com/user-attachments/assets/6c2fef7c-ad73-4bae-be5b-945272857351)
+
 
    O Trimestre que mais vendeu: o último - 4º Qtr
-   ![grafico_trimestre](https://github.com/user-attachments/assets/ca9c77ac-b7d2-4420-beac-de9d93dfea11)
+   
+![grafico_trimestre](https://github.com/user-attachments/assets/ca9c77ac-b7d2-4420-beac-de9d93dfea11)
+
+
 
    - A análise permitiu identificar produtos com desempenho abaixo do esperado nas vendas, bem como os estados com menor representatividade no volume total de vendas. Com base nessas informações, é possível desenvolver estratégias direcionadas para potencializar o desempenho dos produtos e regiões de baixo rendimento, ao mesmo tempo em que se busca manter a excelência nas áreas e itens que já apresentam resultados satisfatórios.
